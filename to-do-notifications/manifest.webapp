@@ -14,5 +14,8 @@
     "desktop-notification": {
       "description": "Needed for creating system notifications."
     }
+     "android-notification" : {
+       "description": "android for creating system notifications."
+    }
   }
 }
